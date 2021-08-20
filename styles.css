@@ -9,3 +9,7 @@ p.bigwords {
   font-size: 4em;
   color: #336622;
 }
+a:link {
+  color: #336699;
+  text-decoration: underline;
+}
