@@ -4,3 +4,8 @@ p {
 body {
   background: lavender;
 }
+
+p.bigwords {
+  font-size: 4em;
+  color: #336622;
+}
